@@ -21,7 +21,7 @@ def bonus
   }
 
   #code your solution here:
-  
+  epict_tragedy[:montague][:hero][:status] = "dead"
 
   
 
